@@ -1,0 +1,20 @@
+occupation_id,occupation_name,skill_id,industry_id,nco_mapping,source_type
+O01,EV Technician,S01,I01,PENDING - to be mapped to NCO-2015,DEMO
+O02,EV Charging Infrastructure Installer,S01,I01,PENDING - to be mapped to NCO-2015,DEMO
+O03,Battery Pack Assembler,S02,I01,PENDING - to be mapped to NCO-2015,DEMO
+O04,ICE Technician,S03,I05,PENDING - to be mapped to NCO-2015,DEMO
+O05,Two-Wheeler Mechanic (ICE),S03,I05,PENDING - to be mapped to NCO-2015,DEMO
+O06,Electronics Assembly Technician,S04,I02,PENDING - to be mapped to NCO-2015,DEMO
+O07,PCB Rework Technician,S04,I02,PENDING - to be mapped to NCO-2015,DEMO
+O08,Embedded Systems Technician,S05,I02,PENDING - to be mapped to NCO-2015,DEMO
+O09,Solar PV Installer,S06,I03,PENDING - to be mapped to NCO-2015,DEMO
+O10,Grid & Substation Electrician,S07,I03,PENDING - to be mapped to NCO-2015,DEMO
+O11,Medical Imaging Technician,S08,I04,PENDING - to be mapped to NCO-2015,DEMO
+O12,Health Informatics Assistant,S09,I04,PENDING - to be mapped to NCO-2015,DEMO
+O13,Data Analyst,S10,I07,PENDING - to be mapped to NCO-2015,DEMO
+O14,Cloud Support Engineer,S11,I07,PENDING - to be mapped to NCO-2015,DEMO
+O15,Textile Machine Operator,S12,I06,PENDING - to be mapped to NCO-2015,DEMO
+O16,Garment Line Operator,S12,I06,PENDING - to be mapped to NCO-2015,DEMO
+O17,Welding & Fabrication Technician,S13,I08,PENDING - to be mapped to NCO-2015,DEMO
+O18,Industrial Automation Technician,S14,I08,PENDING - to be mapped to NCO-2015,DEMO
+O19,CNC Machinist,S15,I08,PENDING - to be mapped to NCO-2015,DEMO

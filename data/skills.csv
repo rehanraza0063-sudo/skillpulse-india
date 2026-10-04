@@ -1,0 +1,16 @@
+skill_id,skill_name,industry_id,description,source_type
+S01,EV Technician,I01,"Service, diagnosis and repair of electric vehicles and their high-voltage systems",DEMO
+S02,Battery Assembly,I01,Assembly and testing of battery modules and packs,DEMO
+S03,ICE Automotive Service,I05,Service and repair of internal-combustion-engine vehicles,DEMO
+S04,Electronics Assembly,I02,Assembly and rework of electronic boards and products,DEMO
+S05,Embedded Systems,I02,Firmware and hardware bring-up for embedded devices,DEMO
+S06,Solar PV Installation,I03,Installation and commissioning of solar PV systems,DEMO
+S07,Grid & Substation Electrical,I03,"Installation, testing and protection of grid and substation equipment",DEMO
+S08,Medical Imaging,I04,Operation of diagnostic imaging equipment,DEMO
+S09,Health Informatics,I04,Handling and analysis of patient and health-facility data,DEMO
+S10,Data Analytics,I07,"Data cleaning, analysis and visualisation",DEMO
+S11,Cloud Support,I07,Cloud platform support and incident handling,DEMO
+S12,Textile Machine Operation,I06,Operation of textile and garment machinery,DEMO
+S13,Welding & Fabrication,I08,Welding and metal fabrication,DEMO
+S14,Industrial Automation (PLC),I08,PLC / SCADA based industrial automation,DEMO
+S15,CNC Machining,I08,CNC machine setup and operation,DEMO

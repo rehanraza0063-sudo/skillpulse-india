@@ -1,0 +1,586 @@
+{
+  "_comment": "Prototype transition data (demo / illustrative). Weights are expert-style placeholders requiring validation.",
+  "source_type": "DEMO",
+  "occupation_requirements": {
+    "EV Technician": [
+      {
+        "competency": "Electrical Systems",
+        "weight": 3
+      },
+      {
+        "competency": "Vehicle Diagnostics",
+        "weight": 3
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 2
+      },
+      {
+        "competency": "High Voltage Safety",
+        "weight": 3
+      },
+      {
+        "competency": "Battery Systems",
+        "weight": 3
+      },
+      {
+        "competency": "Battery Management System",
+        "weight": 3
+      },
+      {
+        "competency": "High Voltage Diagnostics",
+        "weight": 3
+      }
+    ],
+    "EV Charging Infrastructure Installer": [
+      {
+        "competency": "Electrical Systems",
+        "weight": 3
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 2
+      },
+      {
+        "competency": "High Voltage Safety",
+        "weight": 3
+      },
+      {
+        "competency": "Charging Infrastructure",
+        "weight": 3
+      },
+      {
+        "competency": "Electrical Testing",
+        "weight": 2
+      },
+      {
+        "competency": "Grid Connection & Protection",
+        "weight": 1
+      }
+    ],
+    "Battery Pack Assembler": [
+      {
+        "competency": "Battery Systems",
+        "weight": 3
+      },
+      {
+        "competency": "Soldering & Rework",
+        "weight": 2
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 2
+      },
+      {
+        "competency": "High Voltage Safety",
+        "weight": 2
+      },
+      {
+        "competency": "Quality Inspection",
+        "weight": 2
+      },
+      {
+        "competency": "Electrical Systems",
+        "weight": 1
+      }
+    ],
+    "ICE Technician": [
+      {
+        "competency": "Electrical Systems",
+        "weight": 2
+      },
+      {
+        "competency": "Vehicle Diagnostics",
+        "weight": 3
+      },
+      {
+        "competency": "Mechanical Maintenance",
+        "weight": 3
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 2
+      },
+      {
+        "competency": "Engine Systems",
+        "weight": 3
+      },
+      {
+        "competency": "Fuel Injection & Emission Control",
+        "weight": 2
+      },
+      {
+        "competency": "Transmission & Drivetrain",
+        "weight": 2
+      }
+    ],
+    "Two-Wheeler Mechanic (ICE)": [
+      {
+        "competency": "Mechanical Maintenance",
+        "weight": 3
+      },
+      {
+        "competency": "Engine Systems",
+        "weight": 3
+      },
+      {
+        "competency": "Vehicle Diagnostics",
+        "weight": 2
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 2
+      },
+      {
+        "competency": "Transmission & Drivetrain",
+        "weight": 2
+      },
+      {
+        "competency": "Electrical Systems",
+        "weight": 1
+      }
+    ],
+    "Electronics Assembly Technician": [
+      {
+        "competency": "Soldering & Rework",
+        "weight": 3
+      },
+      {
+        "competency": "PCB Assembly",
+        "weight": 3
+      },
+      {
+        "competency": "Quality Inspection",
+        "weight": 2
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 1
+      },
+      {
+        "competency": "Electrical Systems",
+        "weight": 2
+      },
+      {
+        "competency": "Blueprint Reading",
+        "weight": 1
+      }
+    ],
+    "PCB Rework Technician": [
+      {
+        "competency": "Soldering & Rework",
+        "weight": 3
+      },
+      {
+        "competency": "PCB Assembly",
+        "weight": 2
+      },
+      {
+        "competency": "Quality Inspection",
+        "weight": 2
+      },
+      {
+        "competency": "Electrical Testing",
+        "weight": 2
+      }
+    ],
+    "Embedded Systems Technician": [
+      {
+        "competency": "Embedded C Programming",
+        "weight": 3
+      },
+      {
+        "competency": "Microcontroller Interfacing",
+        "weight": 3
+      },
+      {
+        "competency": "Electrical Systems",
+        "weight": 2
+      },
+      {
+        "competency": "Sensors & Instrumentation",
+        "weight": 2
+      },
+      {
+        "competency": "Soldering & Rework",
+        "weight": 1
+      }
+    ],
+    "Solar PV Installer": [
+      {
+        "competency": "Solar PV Installation",
+        "weight": 3
+      },
+      {
+        "competency": "Electrical Systems",
+        "weight": 2
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 2
+      },
+      {
+        "competency": "Electrical Testing",
+        "weight": 2
+      },
+      {
+        "competency": "Grid Connection & Protection",
+        "weight": 2
+      }
+    ],
+    "Grid & Substation Electrician": [
+      {
+        "competency": "Electrical Systems",
+        "weight": 3
+      },
+      {
+        "competency": "Grid Connection & Protection",
+        "weight": 3
+      },
+      {
+        "competency": "Electrical Testing",
+        "weight": 3
+      },
+      {
+        "competency": "High Voltage Safety",
+        "weight": 3
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 2
+      }
+    ],
+    "Medical Imaging Technician": [
+      {
+        "competency": "Medical Imaging Operation",
+        "weight": 3
+      },
+      {
+        "competency": "Radiation Safety",
+        "weight": 3
+      },
+      {
+        "competency": "Patient Data Handling",
+        "weight": 2
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 1
+      }
+    ],
+    "Health Informatics Assistant": [
+      {
+        "competency": "Patient Data Handling",
+        "weight": 3
+      },
+      {
+        "competency": "Spreadsheet Analysis",
+        "weight": 2
+      },
+      {
+        "competency": "SQL",
+        "weight": 2
+      },
+      {
+        "competency": "Data Visualization",
+        "weight": 1
+      }
+    ],
+    "Data Analyst": [
+      {
+        "competency": "SQL",
+        "weight": 3
+      },
+      {
+        "competency": "Python",
+        "weight": 2
+      },
+      {
+        "competency": "Data Visualization",
+        "weight": 3
+      },
+      {
+        "competency": "Spreadsheet Analysis",
+        "weight": 2
+      }
+    ],
+    "Cloud Support Engineer": [
+      {
+        "competency": "Cloud Platforms",
+        "weight": 3
+      },
+      {
+        "competency": "Linux Administration",
+        "weight": 3
+      },
+      {
+        "competency": "Networking Basics",
+        "weight": 2
+      },
+      {
+        "competency": "Ticketing & Incident Management",
+        "weight": 2
+      }
+    ],
+    "Textile Machine Operator": [
+      {
+        "competency": "Textile Machine Operation",
+        "weight": 3
+      },
+      {
+        "competency": "Loom Maintenance",
+        "weight": 2
+      },
+      {
+        "competency": "Quality Inspection",
+        "weight": 2
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 1
+      },
+      {
+        "competency": "Mechanical Maintenance",
+        "weight": 1
+      }
+    ],
+    "Garment Line Operator": [
+      {
+        "competency": "Garment Stitching",
+        "weight": 3
+      },
+      {
+        "competency": "Quality Inspection",
+        "weight": 2
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 1
+      },
+      {
+        "competency": "Textile Machine Operation",
+        "weight": 1
+      }
+    ],
+    "Welding & Fabrication Technician": [
+      {
+        "competency": "Welding Techniques",
+        "weight": 3
+      },
+      {
+        "competency": "Blueprint Reading",
+        "weight": 2
+      },
+      {
+        "competency": "Quality Inspection",
+        "weight": 2
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 2
+      },
+      {
+        "competency": "Mechanical Maintenance",
+        "weight": 1
+      }
+    ],
+    "Industrial Automation Technician": [
+      {
+        "competency": "PLC Programming",
+        "weight": 3
+      },
+      {
+        "competency": "Sensors & Instrumentation",
+        "weight": 3
+      },
+      {
+        "competency": "Electrical Systems",
+        "weight": 2
+      },
+      {
+        "competency": "SCADA & HMI",
+        "weight": 2
+      },
+      {
+        "competency": "Mechanical Maintenance",
+        "weight": 1
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 1
+      }
+    ],
+    "CNC Machinist": [
+      {
+        "competency": "CNC Operation",
+        "weight": 3
+      },
+      {
+        "competency": "Blueprint Reading",
+        "weight": 3
+      },
+      {
+        "competency": "CAD/CAM Basics",
+        "weight": 2
+      },
+      {
+        "competency": "Quality Inspection",
+        "weight": 2
+      },
+      {
+        "competency": "Mechanical Maintenance",
+        "weight": 1
+      },
+      {
+        "competency": "Workplace Safety",
+        "weight": 1
+      }
+    ]
+  },
+  "similarity": [
+    {
+      "a": "Workplace Safety",
+      "b": "High Voltage Safety",
+      "similarity": 0.4
+    },
+    {
+      "a": "Vehicle Diagnostics",
+      "b": "High Voltage Diagnostics",
+      "similarity": 0.5
+    },
+    {
+      "a": "Electrical Systems",
+      "b": "Battery Systems",
+      "similarity": 0.3
+    },
+    {
+      "a": "Battery Systems",
+      "b": "Battery Management System",
+      "similarity": 0.4
+    },
+    {
+      "a": "Electrical Systems",
+      "b": "Charging Infrastructure",
+      "similarity": 0.3
+    },
+    {
+      "a": "Electrical Systems",
+      "b": "Electrical Testing",
+      "similarity": 0.5
+    },
+    {
+      "a": "Electrical Systems",
+      "b": "Grid Connection & Protection",
+      "similarity": 0.3
+    },
+    {
+      "a": "Solar PV Installation",
+      "b": "Grid Connection & Protection",
+      "similarity": 0.3
+    },
+    {
+      "a": "Soldering & Rework",
+      "b": "PCB Assembly",
+      "similarity": 0.5
+    },
+    {
+      "a": "Sensors & Instrumentation",
+      "b": "PLC Programming",
+      "similarity": 0.3
+    },
+    {
+      "a": "Embedded C Programming",
+      "b": "Microcontroller Interfacing",
+      "similarity": 0.4
+    },
+    {
+      "a": "Spreadsheet Analysis",
+      "b": "SQL",
+      "similarity": 0.3
+    },
+    {
+      "a": "Spreadsheet Analysis",
+      "b": "Data Visualization",
+      "similarity": 0.4
+    },
+    {
+      "a": "SQL",
+      "b": "Python",
+      "similarity": 0.2
+    },
+    {
+      "a": "Textile Machine Operation",
+      "b": "Loom Maintenance",
+      "similarity": 0.4
+    },
+    {
+      "a": "Mechanical Maintenance",
+      "b": "Loom Maintenance",
+      "similarity": 0.4
+    },
+    {
+      "a": "Linux Administration",
+      "b": "Networking Basics",
+      "similarity": 0.3
+    },
+    {
+      "a": "Welding Techniques",
+      "b": "Mechanical Maintenance",
+      "similarity": 0.2
+    },
+    {
+      "a": "PLC Programming",
+      "b": "SCADA & HMI",
+      "similarity": 0.4
+    },
+    {
+      "a": "Garment Stitching",
+      "b": "Textile Machine Operation",
+      "similarity": 0.4
+    }
+  ],
+  "bridge_programmes": [
+    {
+      "programme_id": "BP01",
+      "name": "EV Bridge Training (ICE to EV)",
+      "from_occupation": "ICE Technician",
+      "to_occupation": "EV Technician",
+      "duration_weeks": 8,
+      "modules": [
+        "High Voltage Safety",
+        "Battery Systems",
+        "Battery Management System",
+        "High Voltage Diagnostics"
+      ],
+      "note": "Illustrative programme design for the prototype - not an approved curriculum"
+    },
+    {
+      "programme_id": "BP02",
+      "name": "EV Bridge Training (Two-Wheeler to EV)",
+      "from_occupation": "Two-Wheeler Mechanic (ICE)",
+      "to_occupation": "EV Technician",
+      "duration_weeks": 10,
+      "modules": [
+        "High Voltage Safety",
+        "Battery Systems",
+        "Battery Management System",
+        "High Voltage Diagnostics",
+        "Electrical Systems"
+      ],
+      "note": "Illustrative programme design for the prototype - not an approved curriculum"
+    },
+    {
+      "programme_id": "BP03",
+      "name": "Textile Operator to Electronics Assembly Bridge",
+      "from_occupation": "Textile Machine Operator",
+      "to_occupation": "Electronics Assembly Technician",
+      "duration_weeks": 8,
+      "modules": [
+        "Soldering & Rework",
+        "PCB Assembly",
+        "Electrical Systems"
+      ],
+      "note": "Illustrative programme design for the prototype - not an approved curriculum"
+    }
+  ]
+}

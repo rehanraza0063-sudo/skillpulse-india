@@ -1,0 +1,480 @@
+{
+  "_comment": "Illustrative competency taxonomy for the prototype. Future work: map to NCO-2015 occupations and NSQF qualifications.",
+  "source_type": "DEMO",
+  "competencies": [
+    {
+      "name": "Electrical Systems",
+      "category": "Electrical",
+      "bridge_hours": 40,
+      "aliases": [
+        "electrical systems",
+        "electrical system",
+        "electrical work",
+        "wiring",
+        "electrical maintenance",
+        "electrical fundamentals"
+      ]
+    },
+    {
+      "name": "Vehicle Diagnostics",
+      "category": "Automotive",
+      "bridge_hours": 40,
+      "aliases": [
+        "vehicle diagnostics",
+        "diagnostics",
+        "ev diagnostics",
+        "electric vehicle diagnostics",
+        "fault diagnosis",
+        "vehicle fault finding",
+        "obd diagnostics",
+        "automotive diagnostics"
+      ]
+    },
+    {
+      "name": "Mechanical Maintenance",
+      "category": "Mechanical",
+      "bridge_hours": 40,
+      "aliases": [
+        "mechanical maintenance",
+        "mechanical repair",
+        "preventive maintenance",
+        "mechanical servicing"
+      ]
+    },
+    {
+      "name": "Workplace Safety",
+      "category": "Safety",
+      "bridge_hours": 16,
+      "aliases": [
+        "workplace safety",
+        "safety",
+        "safety procedures",
+        "industrial safety",
+        "occupational safety",
+        "ohs"
+      ]
+    },
+    {
+      "name": "High Voltage Safety",
+      "category": "Safety",
+      "bridge_hours": 40,
+      "aliases": [
+        "high voltage safety",
+        "high-voltage safety",
+        "hv safety",
+        "ev safety",
+        "electric vehicle safety",
+        "high voltage handling"
+      ]
+    },
+    {
+      "name": "Battery Systems",
+      "category": "Battery",
+      "bridge_hours": 60,
+      "aliases": [
+        "battery systems",
+        "battery technology",
+        "battery pack",
+        "lithium-ion batteries",
+        "li-ion batteries",
+        "battery maintenance"
+      ]
+    },
+    {
+      "name": "Battery Management System",
+      "category": "Battery",
+      "bridge_hours": 50,
+      "aliases": [
+        "battery management system",
+        "battery management systems",
+        "battery management",
+        "bms"
+      ]
+    },
+    {
+      "name": "High Voltage Diagnostics",
+      "category": "Automotive",
+      "bridge_hours": 50,
+      "aliases": [
+        "high voltage diagnostics",
+        "high-voltage diagnostics",
+        "hv diagnostics",
+        "hv fault diagnosis"
+      ]
+    },
+    {
+      "name": "Engine Systems",
+      "category": "Automotive",
+      "bridge_hours": 60,
+      "aliases": [
+        "engine systems",
+        "engine repair",
+        "engine overhaul",
+        "ic engine",
+        "internal combustion engine"
+      ]
+    },
+    {
+      "name": "Fuel Injection & Emission Control",
+      "category": "Automotive",
+      "bridge_hours": 40,
+      "aliases": [
+        "fuel injection",
+        "emission control",
+        "exhaust systems",
+        "fuel systems"
+      ]
+    },
+    {
+      "name": "Transmission & Drivetrain",
+      "category": "Automotive",
+      "bridge_hours": 40,
+      "aliases": [
+        "transmission",
+        "drivetrain",
+        "gearbox",
+        "clutch systems"
+      ]
+    },
+    {
+      "name": "Charging Infrastructure",
+      "category": "Electrical",
+      "bridge_hours": 50,
+      "aliases": [
+        "charging infrastructure",
+        "ev charging",
+        "charger installation",
+        "charging stations",
+        "evse"
+      ]
+    },
+    {
+      "name": "Electrical Testing",
+      "category": "Electrical",
+      "bridge_hours": 30,
+      "aliases": [
+        "electrical testing",
+        "insulation testing",
+        "megger testing",
+        "commissioning tests"
+      ]
+    },
+    {
+      "name": "Grid Connection & Protection",
+      "category": "Electrical",
+      "bridge_hours": 50,
+      "aliases": [
+        "grid connection",
+        "grid protection",
+        "relay protection",
+        "substation protection",
+        "net metering"
+      ]
+    },
+    {
+      "name": "Solar PV Installation",
+      "category": "Renewable",
+      "bridge_hours": 60,
+      "aliases": [
+        "solar pv installation",
+        "solar installation",
+        "solar panel installation",
+        "rooftop solar",
+        "photovoltaic installation"
+      ]
+    },
+    {
+      "name": "Soldering & Rework",
+      "category": "Electronics",
+      "bridge_hours": 30,
+      "aliases": [
+        "soldering",
+        "rework",
+        "soldering and rework",
+        "smd rework",
+        "desoldering"
+      ]
+    },
+    {
+      "name": "PCB Assembly",
+      "category": "Electronics",
+      "bridge_hours": 40,
+      "aliases": [
+        "pcb assembly",
+        "smt assembly",
+        "board assembly",
+        "circuit board assembly"
+      ]
+    },
+    {
+      "name": "Embedded C Programming",
+      "category": "Electronics",
+      "bridge_hours": 80,
+      "aliases": [
+        "embedded c",
+        "embedded programming",
+        "firmware development",
+        "c programming for microcontrollers"
+      ]
+    },
+    {
+      "name": "Microcontroller Interfacing",
+      "category": "Electronics",
+      "bridge_hours": 60,
+      "aliases": [
+        "microcontroller interfacing",
+        "microcontrollers",
+        "arduino",
+        "stm32",
+        "sensor interfacing"
+      ]
+    },
+    {
+      "name": "Sensors & Instrumentation",
+      "category": "Automation",
+      "bridge_hours": 40,
+      "aliases": [
+        "sensors",
+        "instrumentation",
+        "sensors and instrumentation",
+        "process instrumentation"
+      ]
+    },
+    {
+      "name": "PLC Programming",
+      "category": "Automation",
+      "bridge_hours": 80,
+      "aliases": [
+        "plc programming",
+        "plc",
+        "ladder logic",
+        "plc ladder programming"
+      ]
+    },
+    {
+      "name": "SCADA & HMI",
+      "category": "Automation",
+      "bridge_hours": 50,
+      "aliases": [
+        "scada",
+        "hmi",
+        "scada and hmi",
+        "scada systems"
+      ]
+    },
+    {
+      "name": "CNC Operation",
+      "category": "Manufacturing",
+      "bridge_hours": 60,
+      "aliases": [
+        "cnc operation",
+        "cnc machining",
+        "cnc programming",
+        "cnc setup"
+      ]
+    },
+    {
+      "name": "CAD/CAM Basics",
+      "category": "Manufacturing",
+      "bridge_hours": 40,
+      "aliases": [
+        "cad",
+        "cam",
+        "cad/cam",
+        "cad cam basics",
+        "computer aided design"
+      ]
+    },
+    {
+      "name": "Blueprint Reading",
+      "category": "Manufacturing",
+      "bridge_hours": 20,
+      "aliases": [
+        "blueprint reading",
+        "drawing interpretation",
+        "engineering drawings",
+        "reading technical drawings"
+      ]
+    },
+    {
+      "name": "Welding Techniques",
+      "category": "Manufacturing",
+      "bridge_hours": 60,
+      "aliases": [
+        "welding",
+        "welding techniques",
+        "mig welding",
+        "tig welding",
+        "arc welding"
+      ]
+    },
+    {
+      "name": "Quality Inspection",
+      "category": "Manufacturing",
+      "bridge_hours": 30,
+      "aliases": [
+        "quality inspection",
+        "quality control",
+        "inspection and testing",
+        "qc checks"
+      ]
+    },
+    {
+      "name": "Medical Imaging Operation",
+      "category": "Healthcare",
+      "bridge_hours": 80,
+      "aliases": [
+        "medical imaging",
+        "x-ray operation",
+        "ct scan operation",
+        "mri operation",
+        "radiography",
+        "imaging equipment operation"
+      ]
+    },
+    {
+      "name": "Radiation Safety",
+      "category": "Healthcare",
+      "bridge_hours": 30,
+      "aliases": [
+        "radiation safety",
+        "radiation protection",
+        "dose management"
+      ]
+    },
+    {
+      "name": "Patient Data Handling",
+      "category": "Healthcare",
+      "bridge_hours": 30,
+      "aliases": [
+        "patient data handling",
+        "health records",
+        "medical records",
+        "electronic health records",
+        "ehr"
+      ]
+    },
+    {
+      "name": "Spreadsheet Analysis",
+      "category": "Data",
+      "bridge_hours": 30,
+      "aliases": [
+        "spreadsheet analysis",
+        "excel",
+        "spreadsheets",
+        "advanced excel"
+      ]
+    },
+    {
+      "name": "SQL",
+      "category": "Data",
+      "bridge_hours": 40,
+      "aliases": [
+        "sql",
+        "database queries",
+        "sql queries",
+        "structured query language"
+      ]
+    },
+    {
+      "name": "Python",
+      "category": "Data",
+      "bridge_hours": 60,
+      "aliases": [
+        "python",
+        "python scripting",
+        "python programming"
+      ]
+    },
+    {
+      "name": "Data Visualization",
+      "category": "Data",
+      "bridge_hours": 40,
+      "aliases": [
+        "data visualization",
+        "data visualisation",
+        "dashboards",
+        "power bi",
+        "tableau"
+      ]
+    },
+    {
+      "name": "Cloud Platforms",
+      "category": "IT",
+      "bridge_hours": 60,
+      "aliases": [
+        "cloud platforms",
+        "cloud computing",
+        "aws",
+        "azure",
+        "gcp",
+        "cloud services"
+      ]
+    },
+    {
+      "name": "Linux Administration",
+      "category": "IT",
+      "bridge_hours": 50,
+      "aliases": [
+        "linux",
+        "linux administration",
+        "shell scripting",
+        "unix"
+      ]
+    },
+    {
+      "name": "Networking Basics",
+      "category": "IT",
+      "bridge_hours": 40,
+      "aliases": [
+        "networking",
+        "networking basics",
+        "tcp/ip",
+        "network troubleshooting"
+      ]
+    },
+    {
+      "name": "Ticketing & Incident Management",
+      "category": "IT",
+      "bridge_hours": 20,
+      "aliases": [
+        "ticketing",
+        "incident management",
+        "service desk",
+        "ticketing and incident management"
+      ]
+    },
+    {
+      "name": "Textile Machine Operation",
+      "category": "Textile",
+      "bridge_hours": 40,
+      "aliases": [
+        "textile machine operation",
+        "loom operation",
+        "spinning machine operation",
+        "knitting machine operation"
+      ]
+    },
+    {
+      "name": "Loom Maintenance",
+      "category": "Textile",
+      "bridge_hours": 40,
+      "aliases": [
+        "loom maintenance",
+        "loom repair",
+        "textile machine maintenance"
+      ]
+    },
+    {
+      "name": "Garment Stitching",
+      "category": "Textile",
+      "bridge_hours": 30,
+      "aliases": [
+        "garment stitching",
+        "sewing machine operation",
+        "stitching",
+        "garment assembly"
+      ]
+    }
+  ]
+}

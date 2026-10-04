@@ -1,0 +1,11 @@
+district_id,district_name,latitude,longitude,region,base_weight,notes,source_type
+D01,Mumbai,19.076,72.8777,Konkan,0.16,Demo planning district,DEMO
+D02,Thane,19.2183,72.9781,Konkan,0.12,Demo planning district,DEMO
+D03,Navi Mumbai,19.033,73.0297,Konkan,0.08,Urban area treated as a demo planning zone (not a separate district),DEMO
+D04,Pune,18.5204,73.8567,Western Maharashtra,0.22,Demo planning district,DEMO
+D05,Nashik,19.9975,73.7898,North Maharashtra,0.08,Demo planning district,DEMO
+D06,Nagpur,21.1458,79.0882,Vidarbha,0.1,Demo planning district,DEMO
+D07,Chhatrapati Sambhajinagar,19.8762,75.3433,Marathwada,0.1,Demo planning district,DEMO
+D08,Kolhapur,16.705,74.2433,Western Maharashtra,0.06,Demo planning district,DEMO
+D09,Satara,17.6805,74.0183,Western Maharashtra,0.04,Demo planning district,DEMO
+D10,Solapur,17.6599,75.9064,Western Maharashtra,0.04,Demo planning district,DEMO

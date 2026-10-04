@@ -1,0 +1,9 @@
+industry_id,industry_name,current_outlook,future_outlook,signal_score,signal_note,source_type
+I01,EV / Battery,GROWING,GROWING,0.85,Demo signal: rising EV hiring and charging build-out (illustrative),DEMO
+I02,Electronics,GROWING,GROWING,0.55,Demo signal: electronics assembly and embedded roles expanding (illustrative),DEMO
+I03,Renewable Energy,GROWING,GROWING,0.7,Demo signal: solar and grid roles expanding (illustrative),DEMO
+I04,Healthcare Technology,GROWING,GROWING,0.6,Demo signal: diagnostics and health-data roles expanding (illustrative),DEMO
+I05,Traditional ICE Automotive,DECLINING,DECLINING,-0.6,Demo signal: ICE service demand shrinking as EV share rises (illustrative),DEMO
+I06,Textiles & Garments,DECLINING,DECLINING,-0.45,Demo signal: manual machine-operator demand shrinking (illustrative),DEMO
+I07,IT Services,STABLE,STABLE,0.2,Demo signal: steady hiring with moderate growth (illustrative),DEMO
+I08,General Manufacturing,STABLE,STABLE,0.1,Demo signal: flat to slowly rising demand (illustrative),DEMO
